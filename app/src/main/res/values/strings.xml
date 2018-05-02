@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo LBS</string>
+    <string name="msg">Mohon terima semua permisi</string>
+    <string name="testing_retrofit">Demo Retrofit</string>
+    <string name="login">Login</string>
+    <string name="log_out">Logout</string>
+</resources>
